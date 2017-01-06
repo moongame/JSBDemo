@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3293931220
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testwindow1
+      Dependencies: {}
+    Info_1:
+      Name: testwindow2
+      Dependencies: {}
